@@ -39,7 +39,12 @@
   <img src="https://img.shields.io/badge/Gemini_API-111827?style=for-the-badge&logo=googlegemini&logoColor=8E75FF" alt="Gemini API" />
   <img src="https://img.shields.io/badge/On--Device_LLM-111827?style=for-the-badge&logo=googlegemini&logoColor=4285F4" alt="On-Device LLM" />
   <img src="https://img.shields.io/badge/NLP-111827?style=for-the-badge&logo=googlegemini&logoColor=34D399" alt="NLP" />
-  <img src="https://img.shields.io/badge/Bangkit_Academy-111827?style=for-the-badge&logo=google&logoColor=4285F4" alt="Bangkit Academy" />
+</p>
+
+<p align="center">
+  <img src="./assets/bangkit-academy-logo.png" alt="Bangkit Academy" width="60" />
+  <br/>
+  <sub><b>Bangkit Academy</b> — Machine Learning Cohort, led by Google, Tokopedia, Gojek & Traveloka</sub>
 </p>
 
 ## Currently Building
