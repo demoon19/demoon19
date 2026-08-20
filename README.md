@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/Gemini_API-111827?style=for-the-badge&logo=googlegemini&logoColor=8E75FF" alt="Gemini API" />
   <img src="https://img.shields.io/badge/On--Device_LLM-111827?style=for-the-badge&logo=googlegemini&logoColor=4285F4" alt="On-Device LLM" />
   <img src="https://img.shields.io/badge/NLP-111827?style=for-the-badge&logo=googlegemini&logoColor=34D399" alt="NLP" />
-  <img src="./assets/bangkit-academy-logo.png" alt="Bangkit Academy" height="28" style="vertical-align:middle" /> <b>Bangkit Academy</b>
+  <img src="./assets/bangkit-academy-logo.png" height="28" alt="Bangkit Academy" />
 </p>
 
 ## Currently Building
