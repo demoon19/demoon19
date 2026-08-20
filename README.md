@@ -42,10 +42,6 @@
   <img src="./assets/bangkit-academy-logo.png" alt="Bangkit Academy" height="28" />
 </p>
 
-<p align="center">
-  <sub><b>Bangkit Academy</b> — Machine Learning Cohort, led by Google, Tokopedia, Gojek & Traveloka</sub>
-</p>
-
 ## Currently Building
 
 📱 **Daily Note V2** — an AI-powered personal assistant built with Flutter, using feature-first Clean Architecture, Riverpod, and a hybrid on-device (Gemma / Phi-3-mini) + cloud LLM strategy. It parses free-form Indonesian text into calendar events, expenses, reminders, and notes — all from a single input bar.
