@@ -7,8 +7,8 @@
 <p align="center">
   <a href="https://enjoy-jogja-dewangga.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Enjoy_Jogja-1E88E5?style=flat-square" alt="Enjoy Jogja" /></a>
   <a href="https://explore-indonesia-dewangga.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Explore_Indonesia-1E88E5?style=flat-square" alt="Explore Indonesia" /></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-FFFFFF?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/dewangga-mukti-wibawa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:dewanggamuktiw@gmail.com"><img src="https://img.shields.io/badge/Email-FFFFFF?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
 </p>
 
 ## Tech Stack
@@ -55,7 +55,7 @@ Also building web platforms (Next.js/TypeScript) and exploring ML deployment for
 |---|---|---|
 | **Enjoy Jogja** | Next.js, TypeScript | [Live](https://enjoy-jogja-dewangga.vercel.app/) |
 | **Explore Indonesia** | Next.js, TypeScript | [Live](https://explore-indonesia-dewangga.vercel.app/) |
-| **Daily Note V2** | Flutter, Riverpod, Gemini API, on-device LLM | *Coming soon* |
+| **Daily Note V2** | Flutter, Riverpod, Gemini API, on-device LLM | GitHub |
 | **Volcanic Earthquake Classifier** | Python, ML | GitHub |
 | **KAI NoiSense** | IoT / Noise Monitoring | GitHub |
 
